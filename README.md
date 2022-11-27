@@ -12,6 +12,9 @@ Access the site on a browser: https://trys-ter0.github.io/Challenge1/
 Once the site is loaded, you can navigate using the links in the navbar.
 
 ![screenshot1](assets/images/Screenshot1.png)
+![screenshot2](assets/images/Screenshot2.png)
+![screenshot3](assets/images/Screenshot3.png)
+![screenshot4](assets/images/Screenshot4.png)
 
 ## Credits
 
